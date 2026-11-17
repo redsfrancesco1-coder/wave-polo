@@ -1,0 +1,18 @@
+name: Aggiornamento FIN WAVE POLO
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verifica:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Controlla la pagina ufficiale FIN
+        run: |
+          curl --fail --location --silent --show-error \
+            --output /dev/null \
+            --write-out "Risposta HTTP: %{http_code}\n" \
+            "https://www.federnuoto.it/home/pallanuoto/campionato-a1-maschile/2026-2027-pn-m/regular-season-pn-m-2026-2027.html"
