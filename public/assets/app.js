@@ -28,7 +28,9 @@ function escapeText(value) {
 function teamLink(id, name) {
   const section = route().section;
   const origin = section === 'classifiche' || route().view === 'classifica' ? 'classifica' : 'squadre';
-  return `<a class="team-link" href="#${section}/a1-maschile-2026-27/scheda/${encodeURIComponent(id)}/${origin}">${escapeText(name)}</a>`;
+  const logo = /pro[\s-]?recco/i.test(name) ? '<img src="assets/team-logos/pro-recco-waterpolo.png" alt="" width="24" height="24" style="vertical-align:middle;margin-right:8px;object-fit:contain">' : '';
+  
+  return `<a class="team-link" href="#${section}/a1-maschile-2026-27/scheda/${encodeURIComponent(id)}/${origin}">${escapeText(name)}</a>>${logo}${escapeText(name)}</a>`;
 }
 function teamPanel(data, state) {
   const e = escapeText;
