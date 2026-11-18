@@ -9,12 +9,16 @@ permissions:
 jobs:
   verifica:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
     steps:
       - name: Scarica progetto
         uses: actions/checkout@v4
       - name: Prepara Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
-      - name: Controlla sintassi programma FIN
-        run: node --check scripts/update-fin.mjs
+          node-version: '24'
+      - name: Installa dipendenze
+        run: npm install --ignore-scripts
+      - name: Test connessione FIN
+        run: |
+          node --input-type=module -e "import { loadOfficial } from './netlify/server/fin.mjs'; const d = await loadOfficial({view:'classifica',round:1}); if (!d.standings.length) throw Error('Classifica vuota'); console.log('FIN raggiungibile - squadre:',d.standings.length);"
