@@ -1,0 +1,1239 @@
+{
+  "season": "2026-27",
+  "updatedAt": "Calendario FIN aggiornato al 12/11/2026",
+  "source": "https://www.federnuoto.it/pallanuoto-extra/2026-2027/11694-serie-a1-maschile-2026-2027-calendario.html",
+  "rounds": [
+    {
+      "round": 1,
+      "matches": [
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "Training Academy Olympic Roma",
+          "date": "03/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "De Akker Bologna",
+          "date": "03/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "AN Brescia Team",
+          "date": "03/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "Pro Recco Waterpolo",
+          "date": "03/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "SS Lazio Nuoto",
+          "date": "03/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "RN Savona",
+          "date": "15/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "CC Napoli",
+          "date": "16/12/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "matches": [
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "Pallanuoto Trieste",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "CC Ortigia 1928",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Chiavari Nuoto",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "CN Posillipo",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "Telimar",
+          "date": "27/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "SC Quinto",
+          "date": "27/01/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "matches": [
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "SC Quinto",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "Telimar",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Pallanuoto Trieste",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "CC Ortigia 1928",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "Chiavari Nuoto",
+          "date": "10/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "CN Posillipo",
+          "date": "14/10/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 15,
+      "matches": [
+        {
+          "home": "SC Quinto",
+          "away": "Training Academy Olympic Roma",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "De Akker Bologna",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "SS Lazio Nuoto",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "AN Brescia Team",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "CC Napoli",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "Pro Recco Waterpolo",
+          "date": "30/01/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "RN Savona",
+          "date": "30/01/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "matches": [
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "RN Savona",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "SS Lazio Nuoto",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "AN Brescia Team",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "De Akker Bologna",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "CC Napoli",
+          "date": "17/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Pro Recco Waterpolo",
+          "date": "02/11/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 16,
+      "matches": [
+        {
+          "home": "RN Savona",
+          "away": "Pallanuoto Trieste",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "SC Quinto",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Telimar",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "Chiavari Nuoto",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "CN Posillipo",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "Training Academy Olympic Roma",
+          "date": "06/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "CC Ortigia 1928",
+          "date": "06/02/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "matches": [
+        {
+          "home": "De Akker Bologna",
+          "away": "Pallanuoto Trieste",
+          "date": "20/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "Chiavari Nuoto",
+          "date": "24/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "SC Quinto",
+          "date": "24/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "CC Ortigia 1928",
+          "date": "24/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "CN Posillipo",
+          "date": "24/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Training Academy Olympic Roma",
+          "date": "24/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "Telimar",
+          "date": "24/10/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 17,
+      "matches": [
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "De Akker Bologna",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "CC Napoli",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "RN Savona",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "AN Brescia Team",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "SS Lazio Nuoto",
+          "date": "13/02/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "Pro Recco Waterpolo",
+          "date": "13/02/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "matches": [
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "RN Savona",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Chiavari Nuoto",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "De Akker Bologna",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "AN Brescia Team",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "Pro Recco Waterpolo",
+          "date": "31/10/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "CC Napoli",
+          "date": "31/10/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 18,
+      "matches": [
+        {
+          "home": "RN Savona",
+          "away": "Training Academy Olympic Roma",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "Telimar",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "CC Ortigia 1928",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "SC Quinto",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Pallanuoto Trieste",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "CN Posillipo",
+          "date": "03/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "SS Lazio Nuoto",
+          "date": "03/03/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "matches": [
+        {
+          "home": "CC Napoli",
+          "away": "CC Ortigia 1928",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "Training Academy Olympic Roma",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "SC Quinto",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "CN Posillipo",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "Telimar",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "Pallanuoto Trieste",
+          "date": "07/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "SS Lazio Nuoto",
+          "date": "08/11/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 19,
+      "matches": [
+        {
+          "home": "CC Ortigia 1928",
+          "away": "CC Napoli",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "De Akker Bologna",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "AN Brescia Team",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "Chiavari Nuoto",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "Pro Recco Waterpolo",
+          "date": "06/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "RN Savona",
+          "date": "06/03/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "matches": [
+        {
+          "home": "CN Posillipo",
+          "away": "Chiavari Nuoto",
+          "date": "14/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "AN Brescia Team",
+          "date": "14/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "CC Ortigia 1928",
+          "date": "14/11/2026",
+          "status": "finale",
+          "homeScore": 10,
+          "awayScore": 5
+        },
+        {
+          "home": "SC Quinto",
+          "away": "Pro Recco Waterpolo",
+          "date": "14/11/2026",
+          "status": "finale",
+          "homeScore": 6,
+          "awayScore": 22
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "De Akker Bologna",
+          "date": "14/11/2026",
+          "status": "finale",
+          "homeScore": 15,
+          "awayScore": 14
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "14/11/2026",
+          "status": "finale",
+          "homeScore": 16,
+          "awayScore": 12
+        },
+        {
+          "home": "RN Savona",
+          "away": "CC Napoli",
+          "date": "15/11/2026",
+          "status": "finale",
+          "homeScore": 17,
+          "awayScore": 12
+        }
+      ]
+    },
+    {
+      "round": 20,
+      "matches": [
+        {
+          "home": "Chiavari Nuoto",
+          "away": "CN Posillipo",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Training Academy Olympic Roma",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Telimar",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "SC Quinto",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "SS Lazio Nuoto",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "Pallanuoto Trieste",
+          "date": "13/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "RN Savona",
+          "date": "13/03/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "matches": [
+        {
+          "home": "CC Napoli",
+          "away": "Telimar",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "RN Savona",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "CN Posillipo",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "SS Lazio Nuoto",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "SC Quinto",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "Pallanuoto Trieste",
+          "date": "21/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "Training Academy Olympic Roma",
+          "date": "21/11/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 21,
+      "matches": [
+        {
+          "home": "Telimar",
+          "away": "CC Napoli",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "De Akker Bologna",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "CC Ortigia 1928",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "AN Brescia Team",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "Chiavari Nuoto",
+          "date": "20/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "Pro Recco Waterpolo",
+          "date": "20/03/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "matches": [
+        {
+          "home": "CN Posillipo",
+          "away": "Telimar",
+          "date": "24/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "CC Napoli",
+          "date": "25/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "25/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "AN Brescia Team",
+          "date": "25/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Pro Recco Waterpolo",
+          "date": "25/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "CC Ortigia 1928",
+          "date": "25/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "Chiavari Nuoto",
+          "date": "25/11/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 22,
+      "matches": [
+        {
+          "home": "Telimar",
+          "away": "CN Posillipo",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "De Akker Bologna",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "Training Academy Olympic Roma",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "RN Savona",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "SS Lazio Nuoto",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Pallanuoto Trieste",
+          "date": "27/03/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "SC Quinto",
+          "date": "27/03/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "matches": [
+        {
+          "home": "Telimar",
+          "away": "Pallanuoto Trieste",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "SC Quinto",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "De Akker Bologna",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "CN Posillipo",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "SS Lazio Nuoto",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "Training Academy Olympic Roma",
+          "date": "28/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "RN Savona",
+          "date": "28/11/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 23,
+      "matches": [
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "Telimar",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "CC Ortigia 1928",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "AN Brescia Team",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "CC Napoli",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "Chiavari Nuoto",
+          "date": "03/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "Pro Recco Waterpolo",
+          "date": "03/04/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "matches": [
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "CC Ortigia 1928",
+          "date": "04/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "Telimar",
+          "date": "05/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "CN Posillipo",
+          "date": "05/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "Pro Recco Waterpolo",
+          "date": "05/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "05/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "CC Napoli",
+          "date": "05/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Chiavari Nuoto",
+          "date": "05/12/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 24,
+      "matches": [
+        {
+          "home": "CC Ortigia 1928",
+          "away": "Training Academy Olympic Roma",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "SC Quinto",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "Pallanuoto Trieste",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "De Akker Bologna",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "RN Savona",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "AN Brescia Team",
+          "date": "10/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "SS Lazio Nuoto",
+          "date": "10/04/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "matches": [
+        {
+          "home": "Telimar",
+          "away": "Training Academy Olympic Roma",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "SS Lazio Nuoto",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "CC Napoli",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "AN Brescia Team",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "SC Quinto",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "De Akker Bologna",
+          "date": "08/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "RN Savona",
+          "date": "09/12/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 25,
+      "matches": [
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "Telimar",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "CC Ortigia 1928",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "Pallanuoto Trieste",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Pro Recco Waterpolo",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "SC Quinto",
+          "away": "CN Posillipo",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "17/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "Chiavari Nuoto",
+          "date": "17/04/2027",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "matches": [
+        {
+          "home": "SC Quinto",
+          "away": "Pallanuoto Trieste",
+          "date": "09/11/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "SS Lazio Nuoto",
+          "away": "Telimar",
+          "date": "11/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Napoli",
+          "away": "Pro Recco Waterpolo",
+          "date": "12/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "De Akker Bologna",
+          "away": "Chiavari Nuoto",
+          "date": "12/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "AN Brescia Team",
+          "away": "Roma Vis Nova Pallanuoto",
+          "date": "12/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "RN Savona",
+          "away": "CC Ortigia 1928",
+          "date": "12/12/2026",
+          "status": "programmata"
+        },
+        {
+          "home": "Training Academy Olympic Roma",
+          "away": "CN Posillipo",
+          "date": "12/12/2026",
+          "status": "programmata"
+        }
+      ]
+    },
+    {
+      "round": 26,
+      "matches": [
+        {
+          "home": "Pallanuoto Trieste",
+          "away": "SC Quinto",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Telimar",
+          "away": "SS Lazio Nuoto",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Pro Recco Waterpolo",
+          "away": "CC Napoli",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Chiavari Nuoto",
+          "away": "De Akker Bologna",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "Roma Vis Nova Pallanuoto",
+          "away": "AN Brescia Team",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CC Ortigia 1928",
+          "away": "RN Savona",
+          "date": "24/04/2027",
+          "status": "programmata"
+        },
+        {
+          "home": "CN Posillipo",
+          "away": "Training Academy Olympic Roma",
+          "date": "24/04/2027",
+          "status": "programmata"
+        }
+      ]
+    }
+  ]
+}
